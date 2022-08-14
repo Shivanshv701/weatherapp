@@ -1,0 +1,24 @@
+.for{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+
+}
+ .main {
+    text-align: center;
+    border: none;
+    color: white;
+    background-image: linear-gradient(-90deg, #44dced, #8dbef0);
+}
+.card1 {
+    border: none;
+    color: white;
+    background: none;
+} 
+.card{
+
+    border: none;
+    color: white;
+    background: none;
+    display: inline;
+}
